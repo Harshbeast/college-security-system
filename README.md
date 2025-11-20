@@ -2,7 +2,7 @@
 
 Real-time **multi-face recognition** from your webcam with **advanced spoof detection** (photos, videos, masks) — all running locally, securely, and fast.
 
-https://github.com/yourusername/webcam-all-faces-auth/assets/12345678/demo-gif-here.gif  
+https://github.com/Harshbeast/college-security-system/blob/main/live%20demo.mp4  
 *(Live demo: multiple people detected, spoof attempts rejected in real-time)*
 
 ## Features ✨
